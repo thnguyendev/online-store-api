@@ -1,0 +1,8 @@
+
+src/.vs
+src/OnlineStore.Api/bin
+src/OnlineStore.Api/obj
+src/OnlineStore.Core/bin
+src/OnlineStore.Core/obj
+src/OnlineStore.Infrastructure/bin
+src/OnlineStore.Infrastructure/obj

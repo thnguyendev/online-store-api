@@ -8,6 +8,8 @@ DROP TABLE profile;
 CREATE TABLE profile(
 	id TEXT NOT NULL PRIMARY KEY,
 	address TEXT,
+	latitude REAL,
+	longitude REAL,
 	phone TEXT,
 	email TEXT
 );
